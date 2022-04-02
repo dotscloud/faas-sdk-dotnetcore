@@ -20,7 +20,7 @@ using Utf8Json;
 
 namespace Faas.Sdk
 {
-    public static class NuclioSerializationHelpers<T>
+    public static class FaasSerializationHelpers<T>
     {
         public static T Deserialize(string str)
         {
