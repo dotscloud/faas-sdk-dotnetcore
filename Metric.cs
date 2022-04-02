@@ -16,7 +16,7 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace Nuclio.Sdk
+namespace Faas.Sdk
 {
     public class Metric
     {

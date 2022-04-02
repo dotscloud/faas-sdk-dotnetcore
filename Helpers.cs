@@ -18,7 +18,7 @@ using System.Runtime.Serialization;
 using System.Text;
 using Utf8Json;
 
-namespace Nuclio.Sdk
+namespace Faas.Sdk
 {
     public static class NuclioSerializationHelpers<T>
     {

@@ -1,6 +1,6 @@
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Nuclio.Sdk;
+using Faas.Sdk;
 
 namespace tests
 {
