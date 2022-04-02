@@ -12,7 +12,7 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 
-namespace Nuclio.Sdk
+namespace Faas.Sdk
 {
     public class Context
     {

@@ -19,7 +19,7 @@ using System.Text;
 using Utf8Json;
 using Utf8Json.Formatters;
 
-namespace Nuclio.Sdk
+namespace Faas.Sdk
 {
     public class Event
     {
