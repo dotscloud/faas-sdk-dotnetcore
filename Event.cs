@@ -52,7 +52,7 @@ namespace Faas.Sdk
         public string Url { get; set; }
 
         [DataMember(Name = "version")]
-        public string Version { get; set; }
+        public int Version { get; set; }
 
         [DataMember(Name = "type")]
         public string Type { get; set; }
